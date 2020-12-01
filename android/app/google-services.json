@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "424827706293",
+    "firebase_url": "https://easysave-ca865.firebaseio.com",
+    "project_id": "easysave-ca865",
+    "storage_bucket": "easysave-ca865.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424827706293:android:00337b14af0481a50817fc",
+        "android_client_info": {
+          "package_name": "com.easysave.savings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424827706293-dek572ieih1ctq1mddlui199a4qrc24t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easysave.savings",
+            "certificate_hash": "8b697d14797dd02015745cb28df2aad1f7d6026a"
+          }
+        },
+        {
+          "client_id": "424827706293-gjsmvg1giqs347nh38aq97ooce35kail.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApW61bD-NrXvU-KaEeBt_4hzYL8Ea9cIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424827706293-gjsmvg1giqs347nh38aq97ooce35kail.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
